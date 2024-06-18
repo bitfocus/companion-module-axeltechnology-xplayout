@@ -1,3 +1,8 @@
-## Your module
+## AxelTechnology xplayout module
 
-Write some help for your users here!
+AxelTechnology module for performing TCP and UDP requests to xplayout ecosystem
+
+**Available commands in this module**
+
+* Send TCP
+* Send UDP
