@@ -1,13 +1,17 @@
 {
-	"id": "axeltechnology_xplayout",
-	"name": "axeltechnology_xplayout",
+	"id": "axeltechnology-xplayout",
+	"name": "axeltechnology-xplayout",
 	"shortname": "xplayout",
 	"description": "xplayout commands",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "",
-	"bugs": "",
+	"repository": "git+https://https://github.com/bitfocus/companion-module-axeltechnology-xplayout.git",
+	"bugs": "https://github.com/bitfocus/companion-module-axeltechnology-xplayout/issues",
 	"maintainers": [
+		{
+			"name": "Ruslan Rolkin",
+			"email": "ruslan.rolkin@axeltechnology.com"
+		}
 	],
 	"legacyIds": [],
 	"runtime": {
@@ -18,5 +22,5 @@
 	},
 	"manufacturer": "AxelTechnology",
 	"products": ["xplayout"],
-	"keywords": ["xplayout", "vj","axel","technology"]
+	"keywords": ["xplayout", "vj","axel","technology","play","out","xplay"]
 }
