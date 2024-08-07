@@ -20,7 +20,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../index.js"
 	},
-	"manufacturer": "AxelTechnology",
-	"products": ["xplayout"],
+	"manufacturer": "AxelTech",
+	"products": ["XPlayout"],
 	"keywords": ["xplayout", "vj","axel","technology","play","out","xplay"]
 }
