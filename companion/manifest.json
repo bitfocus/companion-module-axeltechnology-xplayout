@@ -13,7 +13,7 @@
 			"email": "ruslan.rolkin@axeltechnology.com"
 		}
 	],
-	"legacyIds": [],
+	"legacyIds": ["axeltechnology_xplayout"],
 	"runtime": {
 		"type": "node18",
 		"api": "nodejs-ipc",
